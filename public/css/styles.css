@@ -11317,7 +11317,7 @@ section {
 }
 
 .hero-welcome {
-	background-image: url("../img/bg-01.jpg");
+	background-image: url("https://s3.eu-central-1.amazonaws.com/voicepsychology.de/img/bg-01.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
